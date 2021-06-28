@@ -1,4 +1,4 @@
-# ECommerce
+# ECommerce Backend
 
 ## Description
 The E-Commerce back-end app allows a user to build their e-commerce database and inventory.
